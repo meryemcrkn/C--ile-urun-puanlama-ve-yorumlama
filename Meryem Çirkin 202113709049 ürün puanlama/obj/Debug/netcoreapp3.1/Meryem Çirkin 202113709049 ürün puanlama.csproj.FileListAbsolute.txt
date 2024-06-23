@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Meryem Çirkin 202113709049 ürün puanlama\Meryem Çirkin 202113709049 ürün puanlama\bin\Debug\netcoreapp3.1\Meryem Çirkin 202113709049 ürün puanlama.exe
+C:\Users\admin\source\repos\Meryem Çirkin 202113709049 ürün puanlama\Meryem Çirkin 202113709049 ürün puanlama\bin\Debug\netcoreapp3.1\Meryem Çirkin 202113709049 ürün puanlama.deps.json
+C:\Users\admin\source\repos\Meryem Çirkin 202113709049 ürün puanlama\Meryem Çirkin 202113709049 ürün puanlama\bin\Debug\netcoreapp3.1\Meryem Çirkin 202113709049 ürün puanlama.runtimeconfig.json
+C:\Users\admin\source\repos\Meryem Çirkin 202113709049 ürün puanlama\Meryem Çirkin 202113709049 ürün puanlama\bin\Debug\netcoreapp3.1\Meryem Çirkin 202113709049 ürün puanlama.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Meryem Çirkin 202113709049 ürün puanlama\Meryem Çirkin 202113709049 ürün puanlama\bin\Debug\netcoreapp3.1\Meryem Çirkin 202113709049 ürün puanlama.dll
+C:\Users\admin\source\repos\Meryem Çirkin 202113709049 ürün puanlama\Meryem Çirkin 202113709049 ürün puanlama\bin\Debug\netcoreapp3.1\Meryem Çirkin 202113709049 ürün puanlama.pdb
+C:\Users\admin\source\repos\Meryem Çirkin 202113709049 ürün puanlama\Meryem Çirkin 202113709049 ürün puanlama\obj\Debug\netcoreapp3.1\Meryem Çirkin 202113709049 ürün puanlama.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Meryem Çirkin 202113709049 ürün puanlama\Meryem Çirkin 202113709049 ürün puanlama\obj\Debug\netcoreapp3.1\Meryem Çirkin 202113709049 ürün puanlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Meryem Çirkin 202113709049 ürün puanlama\Meryem Çirkin 202113709049 ürün puanlama\obj\Debug\netcoreapp3.1\Meryem Çirkin 202113709049 ürün puanlama.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Meryem Çirkin 202113709049 ürün puanlama\Meryem Çirkin 202113709049 ürün puanlama\obj\Debug\netcoreapp3.1\Meryem Çirkin 202113709049 ürün puanlama.AssemblyInfo.cs
+C:\Users\admin\source\repos\Meryem Çirkin 202113709049 ürün puanlama\Meryem Çirkin 202113709049 ürün puanlama\obj\Debug\netcoreapp3.1\Meryem Çirkin 202113709049 ürün puanlama.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Meryem Çirkin 202113709049 ürün puanlama\Meryem Çirkin 202113709049 ürün puanlama\obj\Debug\netcoreapp3.1\Meryem Çirkin 202113709049 ürün puanlama.dll
+C:\Users\admin\source\repos\Meryem Çirkin 202113709049 ürün puanlama\Meryem Çirkin 202113709049 ürün puanlama\obj\Debug\netcoreapp3.1\Meryem Çirkin 202113709049 ürün puanlama.pdb
+C:\Users\admin\source\repos\Meryem Çirkin 202113709049 ürün puanlama\Meryem Çirkin 202113709049 ürün puanlama\obj\Debug\netcoreapp3.1\Meryem Çirkin 202113709049 ürün puanlama.genruntimeconfig.cache
